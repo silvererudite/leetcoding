@@ -7,6 +7,7 @@
 4. [day 4: Delete Node from BST (Medium)](https://leetcode.com/problems/delete-node-in-a-bst/)
 5. [day 5: Check if integer is palindrome (Easy)](https://leetcode.com/problems/palindrome-number/)
 6. [day 6: Search Insert Position (Easy)](https://leetcode.com/problems/search-insert-position/)
+7. [day 7: Product of Array except self (medium)](https://leetcode.com/problems/product-of-array-except-self/)
 
 
 
