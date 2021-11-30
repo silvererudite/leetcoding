@@ -8,7 +8,7 @@
 5. [day 5: Check if integer is palindrome (Easy)](https://leetcode.com/problems/palindrome-number/)
 6. [day 6: Search Insert Position (Easy)](https://leetcode.com/problems/search-insert-position/)
 7. [day 7: Product of Array except self (medium)](https://leetcode.com/problems/product-of-array-except-self/)
-8. [day 8: two Sum (Easy)](https://leetcode.com/problems/two-sum/)
-
+8. [day 8: Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
+9. [day 9: First bad version (Easy)](https://leetcode.com/problems/first-bad-version/)
 
 
