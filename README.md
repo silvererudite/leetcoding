@@ -10,5 +10,6 @@
 7. [day 7: Product of Array except self (medium)](https://leetcode.com/problems/product-of-array-except-self/)
 8. [day 8: Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
 9. [day 9: First bad version (Easy)](https://leetcode.com/problems/first-bad-version/)
+10. [day 10: Squares of a sorted array (Easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 
