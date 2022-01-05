@@ -11,5 +11,7 @@
 8. [day 8: Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
 9. [day 9: First bad version (Easy)](https://leetcode.com/problems/first-bad-version/)
 10. [day 10: Squares of a sorted array (Easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
+11. [day 11: Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
+12. [day 12: detect Cycle in Linked List (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 
 
